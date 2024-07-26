@@ -25,6 +25,18 @@ A simple BMI(Body Mass Index) calculator application with both command-line and 
  ```sh
   pip install pillow
 ```
+## Images
+
+The GUI version of the BMI Calculator includes graphical representations of the BMI categories. To ensure these images are displayed correctly, follow these instructions:
+
+### Images Required
+The following images are used to visually represent the different BMI categories:
+
+- `underweight.png` – Represents the underweight category.
+- `normal.png` – Represents the normal weight category.
+- `overweight.png` – Represents the overweight category.
+- `obesity.png` – Represents the obesity category.
+
 ## Usage
 
 ### Command-Line and GUI Version
