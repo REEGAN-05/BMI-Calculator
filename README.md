@@ -52,7 +52,7 @@ python bmi_calculator.py
 ```
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/REEGAN-05/BMI-Calculator/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
