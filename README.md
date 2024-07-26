@@ -27,11 +27,23 @@ A simple BMI(Body Mass Index) calculator application with both command-line and 
 ```
 ## Usage
 
-### Command-Line Version
-Run the script sh `bmi_calculator.py to start the command-line BMI calculator.
+### Command-Line and GUI Version
 
-### GUI Version
-Run the script `bmi_calculator.py` to start the GUI BMI calculator.
+Both the command-line and GUI versions can be run using the same script. The application will open with a graphical interface.
+
+To run the BMI calculator:
 
 ```sh
+
 python bmi_calculator.py
+
+```
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+
+- Inspired by the need for a simple yet effective BMI calculator.
+- Developed using Python and the Tkinter library for the GUI.
+- Images used to represent BMI categories should be credited appropriately if sourced from online resources.
